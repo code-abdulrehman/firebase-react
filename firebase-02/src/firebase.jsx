@@ -8,7 +8,8 @@ const firebaseConfig = {
   storageBucket: "react-001project.appspot.com",
   messagingSenderId: "731932737586",
   appId: "1:731932737586:web:2e47a26f54422982efbc2b",
-  measurementId: "G-1K1TKLBRZ7"
+  measurementId: "G-1K1TKLBRZ7",
+  databaseURL: "https://react-001project-default-rtdb.firebaseio.com/"
 };
 
 // Initialize Firebase
